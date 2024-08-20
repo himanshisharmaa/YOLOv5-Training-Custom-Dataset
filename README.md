@@ -8,14 +8,6 @@ This repo is about training the custom vehicle dataset that has been taken from 
 -  "Yolo_Outputs" are the inferencing outputs.
 Link: https://www.kaggle.com/datasets/nadinpethiyagoda/vehicle-dataset-for-yolo
 
-## Dataset Structure under the folder:
-vehicle_dataset
-    ----> images
-              ------> train
-              ------> val
-    ----> labels
-              ------> train
-              ------> val
 
 ## clone the yolo github repository by running the following command:
      git clone https://github.com/ultralytics/yolov5.git
